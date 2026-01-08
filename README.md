@@ -1,5 +1,7 @@
 # leetcode
 
+Passing [Data Structures and Algorithms](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) course on LeetCode.
+
 # Install C++ compiler and build tools
 brew install cmake
 brew install llvm
