@@ -4,13 +4,12 @@
 using namespace std;
 
 /*
-clang++ -std=c++17 problems/3sum.cpp && ./a.out
+clang++ -std=c++17 problems/2pointers.3sum.cpp && ./a.out
 */
 
 /**
  * @problem 3Sum
- * @link
- * https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=array
+ * @link https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=array
  * Time: O(n log n) + O(n²) = O(n²)
  * Space: O(n)
  */

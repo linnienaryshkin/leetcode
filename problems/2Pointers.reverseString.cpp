@@ -4,13 +4,12 @@
 using namespace std;
 
 /*
-clang++ -std=c++17 problems/reverseString.cpp && ./a.out
+clang++ -std=c++17 problems/2pointers.reverseString.cpp && ./a.out
 */
 
 /**
  * @problem Reverse String
- * @link
- * https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/703/arraystrings/4592/
+ * @link https://leetcode.com/problems/reverse-string
  * Time: O(n)
  * Space: O(1)
  */

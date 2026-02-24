@@ -5,7 +5,7 @@
 using namespace std;
 
 /*
-clang++ -std=c++17 problems/reverseBetween.cpp && ./a.out
+clang++ -std=c++17 problems/linkedL.reverseBetween.cpp && ./a.out
 */
 
 struct ListNode {
@@ -19,8 +19,7 @@ struct ListNode {
  * @description Given the head of a singly linked list and two integers left and
  * right where left <= right, reverse the nodes of the list from position left
  * to position right, and return the reversed list.
- * @link
- * https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/704/linked-lists/4598/
+ * @link https://leetcode.com/problems/reverse-linked-list-ii
  * Time: O(n)
  * Space: O(1)
  */

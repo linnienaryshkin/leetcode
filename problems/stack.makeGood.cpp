@@ -4,13 +4,12 @@
 using namespace std;
 
 /*
-clang++ -std=c++17 problems/makeGood.cpp && ./a.out
+clang++ -std=c++17 problems/stack.makeGood.cpp && ./a.out
 */
 
 /**
  * @problem Make Good
- * @link
- * https://leetcode.com/problems/make-the-string-great
+ * @link https://leetcode.com/problems/make-the-string-great
  * Time: O(n)
  * Space: O(1)
  */

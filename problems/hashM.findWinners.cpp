@@ -5,7 +5,7 @@
 using namespace std;
 
 /*
-clang++ -std=c++17 problems/findWinners.cpp && ./a.out
+clang++ -std=c++17 problems/hashM.findWinners.cpp && ./a.out
 */
 
 /**
@@ -16,8 +16,7 @@ clang++ -std=c++17 problems/findWinners.cpp && ./a.out
  * answer[0] is a list of all players that have not lost any matches.
  * answer[1] is a list of all players that have lost exactly one match.
  * The values in the two lists should be returned in increasing order.
- * @link
- * https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/705/hashing/4606/
+ * @link https://leetcode.com/problems/find-players-with-zero-or-one-losses
  * Time: O(n log n)
  * Space: O(n)
  */

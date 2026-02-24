@@ -5,13 +5,12 @@
 using namespace std;
 
 /*
-clang++ -std=c++17 problems/longestOnes.cpp && ./a.out
+clang++ -std=c++17 problems/slideW.longestOnes.cpp && ./a.out
 */
 
 /**
  * @problem Longest Ones
- * @link
- * https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/703/arraystrings/4595/
+ * @link https://leetcode.com/problems/max-consecutive-ones-iii
  * Time: O(n)
  * Space: O(1)
  */

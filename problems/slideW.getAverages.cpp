@@ -4,13 +4,12 @@
 using namespace std;
 
 /*
-clang++ -std=c++17 problems/k-radius-subarray-averages.cpp && ./a.out
+clang++ -std=c++17 problems/slideW.getAverages.cpp && ./a.out
 */
 
 /**
  * @problem K Radius Subarray Averages
- * @link
- * https://leetcode.com/problems/k-radius-subarray-averages/
+ * @link https://leetcode.com/problems/k-radius-subarray-averages/
  * Time: O(n)
  * Space: O(n)
  */

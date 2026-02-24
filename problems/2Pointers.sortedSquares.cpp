@@ -4,13 +4,12 @@
 using namespace std;
 
 /*
-clang++ -std=c++17 problems/sortedSquares.cpp && ./a.out
+clang++ -std=c++17 problems/2Pointers.sortedSquares.cpp && ./a.out
 */
 
 /**
  * @problem Sorted Squares
- * @link
- * https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/703/arraystrings/4689/
+ * @link https://leetcode.com/problems/squares-of-a-sorted-array
  * Time: O(n)
  * Space: O(n)
  */
